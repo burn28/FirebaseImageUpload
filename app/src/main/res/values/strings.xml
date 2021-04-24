@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Upload Image</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="enter_a_file_name">Enter a file name</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="enter">enter</string>
+    <string name="upload">upload</string>
+    <string name="show_uploads">show uploads</string>
+    <string name="description">description</string>
+    <string name="name">Name</string>
+
+</resources>
